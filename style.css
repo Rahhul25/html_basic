@@ -2,6 +2,10 @@
     margin: 0%;
     padding: 0%;
 }
+.header{
+    position: sticky;
+    top:0px;
+}
 nav{
     background-color: rgb(234, 61, 61);
     color: white;
